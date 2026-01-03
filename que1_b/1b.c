@@ -1,6 +1,4 @@
 #include <stdio.h>
-//#include <stdbool.h>
-//#include <string.h>
 #include <stdlib.h>
 void my_strcpy(char s1[],char s2[],size_t s1_len,size_t s2_size){
     if(s1_len>s2_size){
