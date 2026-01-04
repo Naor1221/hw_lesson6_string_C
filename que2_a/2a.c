@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//see what the problam here in the orgnization
+ 
 void reverse_transfer(char target[],char source[],unsigned int n ,unsigned size_source ){
     if(n==0){
         exit(EXIT_FAILURE);
